@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Java_GUI/01_Java_GUI.iml" filepath="$PROJECT_DIR$/01_Java_GUI/01_Java_GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Probability_Simulation/02_Probability_Simulation.iml" filepath="$PROJECT_DIR$/02_Probability_Simulation/02_Probability_Simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Sort_Visualization/03_Sort_Visualization.iml" filepath="$PROJECT_DIR$/03_Sort_Visualization/03_Sort_Visualization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Maze_Solver/04_Maze_Solver.iml" filepath="$PROJECT_DIR$/04_Maze_Solver/04_Maze_Solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Maze_Generator/05_Maze_Generator.iml" filepath="$PROJECT_DIR$/05_Maze_Generator/05_Maze_Generator.iml" />
+    </modules>
+  </component>
+</project>

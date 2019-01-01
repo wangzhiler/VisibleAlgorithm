@@ -1,0 +1,17 @@
+深度优先遍历
+1) 递归
+    求解 (x,y)
+    上下左右走，继续求解
+
+    solveMaze(x,y):
+        if(x,y)是出口: success
+        solveMaze(x  ,y-1)
+        solveMaze(x+1,y)
+        solveMaze(x  ,y+1)
+        solveMaze(x-1,y)
+2) 非递归
+    用栈
+
+广度优先遍历
+    队列
+
